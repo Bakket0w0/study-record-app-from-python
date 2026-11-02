@@ -1,9 +1,12 @@
 # Python
 __pycache__/
 *.py[cod]
+.venv/
 
 # Local study records
 study.txt
+study_records.db
+.streamlit/secrets.toml
 
 # Editor and OS files
 .vscode/
